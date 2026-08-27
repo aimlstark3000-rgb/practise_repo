@@ -7,4 +7,10 @@
 -  starting out fresh and ready for doing some real shit
 
 - editing from main account so i can use upstream to see it wokring : that's it
-- 
+  
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - updating docs second time - to get update the data : 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
